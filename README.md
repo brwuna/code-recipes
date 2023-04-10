@@ -50,6 +50,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React Navigation
 - JSON Server
 - AXIOS
+- AsyncStorage
 - MOTI
 - Git e Github
 
