@@ -15,7 +15,6 @@
 
 O Code Recipes é um app para encontrar suas receitas favoritas.
 
-<br>
 
 ## Funcionalidade
 
@@ -27,6 +26,8 @@ O Code Recipes é um app para encontrar suas receitas favoritas.
 - [x] Button de favoritos funcional
 - [x] Dados dinâmicos
 - [x] Animações
+
+<br>
 
 <p align="center">
   <img style="border-radius: 1rem" alt="projeto codeRecipes" src=".github/preview1.png" width="100%">
