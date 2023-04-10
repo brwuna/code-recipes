@@ -1,6 +1,7 @@
 <h1 align="center" style="background: #FD4028; border-radius: 1rem"> Code Recipes <> </h1>
 
 <p align="center">
+  <a href="#-funcionalidade">Funcionalidade</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -15,6 +16,17 @@
 O Code Recipes é um app para encontrar suas receitas favoritas.
 
 <br>
+
+## Funcionalidade
+
+- [x] Home interativa com scroll
+- [x] Search para encontrar receitas
+- [x] Tab navigation
+- [x] Listagem do passo a passo da receita
+- [x] Vídeo funcional
+- [x] Button de favoritos funcional
+- [x] Dados dinâmicos
+- [x] Animações
 
 <p align="center">
   <img style="border-radius: 1rem" alt="projeto codeRecipes" src=".github/preview1.png" width="100%">
@@ -32,9 +44,10 @@ O Code Recipes é um app para encontrar suas receitas favoritas.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- ReactNative
-- JSON Server
 - EXPO
+- React Native
+- React Navigation
+- JSON Server
 - AXIOS
 - MOTI
 - Git e Github
